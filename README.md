@@ -1,0 +1,2 @@
+# stanlo
+tech and ai
